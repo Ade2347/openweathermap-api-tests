@@ -63,7 +63,7 @@
 					}
 				},
 				"url": {
-					"raw": "{{baseUrl}}/weather?lat={{lat}}&lon={{lon}}&appid={{API_KEY\t}}",
+					"raw": "{{baseUrl}}/weather?lat={{lat}}&lon={{lon}}&appid={{API_KEY}}",
 					"host": [
 						"{{baseUrl}}"
 					],
@@ -81,7 +81,7 @@
 						},
 						{
 							"key": "appid",
-							"value": "{{API_KEY\t}}"
+							"value": "{{API_KEY}}"
 						}
 					]
 				}
